@@ -3,3 +3,15 @@ precheck_results
 *.lst
 *.vcd
 *.gtkw
+*.def
+*.gds
+*.lef
+*.mag
+*.sdc
+*.csv
+*.sdf
+*.spef
+verilog/gl/distance_display.v
+signoff/distance_display/OPENLANE_VERSION
+
+signoff/distance_display/PDK_SOURCES
